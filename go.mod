@@ -1,4 +1,4 @@
-module kube-schduler
+module github.com/kafkaqin/kube-scheduler
 
 go 1.23.1
 
